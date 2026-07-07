@@ -1,7 +1,3 @@
-# AWS-DCO-GenAI-Portfolio
-교육용 DCO 직무 이해 및 생성형 AI 활용 포트폴리오
-
-
 # 🚀 AWS DCO 인턴십 직무 이해 & 생성형 AI 활용 학습 포트폴리오
 
 본 저장소는 AWS DCO(Data Center Operations) 직무를 심층적으로 이해하고, 생성형 AI를 활용하여 데이터 센터 운영 및 자동화 프로세스를 실습한 결과물을 정리하는 **학습형 포트폴리오**입니다.
